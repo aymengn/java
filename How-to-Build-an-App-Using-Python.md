@@ -1,6 +1,7 @@
 ## How to Build an App Using Python: A Comprehensive Guide
 
 Creating an app from scratch can seem like a daunting task, but with Python, it's more accessible than you might think. Python is a versatile and beginner-friendly programming language, making it an excellent choice for app development. This guide will walk you through the essential steps to build a Python app, covering everything from setting up your environment to deploying your app.
+[![](https://fiverr.ck-cdn.com/tn/serve/?cid=36592699)](https://bit.ly/4fyanpW)
 
 ### 1. Setting Up Your Development Environment
 
